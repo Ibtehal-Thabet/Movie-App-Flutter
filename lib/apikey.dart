@@ -1,0 +1,4 @@
+String apikey = "d78e371a935bd40f2c8418704687ebd8";
+String supabaseApiKey =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFxd3lmcXNxeHdjeHJpYmpub29vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc5OTM3OTQsImV4cCI6MjA0MzU2OTc5NH0.9iZN6IkKlDEWtJFXjYiabbSAFEwF1iCWDYruzYPxiwk";
+String projectKey = "qqwyfqsqxwcxribjnooo";
